@@ -3,7 +3,7 @@
 Description: The project is an electronic cricket game with a display and keypad, incorporating 
 some unique modifications. The game begins by allowing the player to choose whether they want to 
 bat or bowl. Once the choice is made, the match starts. 
-
+ 
 **During the batting phase: **
  The player selects a number between 0 and 6 using the keypad. 
  The computer generates a random number within the same range. 
